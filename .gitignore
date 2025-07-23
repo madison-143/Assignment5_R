@@ -59,6 +59,3 @@ __pycache__/
 .env/
 .venv/
 
-# Ignore data files
-data/
-*.csv
