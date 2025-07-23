@@ -1,0 +1,19 @@
+name: R5
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - jupyterlab
+  - r-base
+  - r-irkernel
+  - r-caret
+  - r-lattice
+  - r-ellipse
+  - r-ggplot2
+  - r-tidyverse
+  - r-kernlab
+  - r-randomForest
+prefix: /users/PAS2797/madison143/.conda/envs/R5
