@@ -71,6 +71,8 @@ This should take you straight to jupyter lab with the environment completely set
 - We are using the iris dataset, which is built-in to R. There are two ways to load in the data; both are included in the tutorial.
 - A validation dataset was used for the tutorial, so only 80% of the data was used for training.
 - The tutorial is structured as followed:
+    - 1.0: Create repository
+    - 2.0: Load data
     - 3.0: Summarize the dataset
     - 4.0: Visualize the data using univariate plots (box and whisker and bar plots), and multivariate plots (scatterplot matrix, box and whisker, and density plots).
     - 5.0: Evaluate linear and nonlinear algorithms
